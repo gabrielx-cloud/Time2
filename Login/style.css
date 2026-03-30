@@ -1,0 +1,26 @@
+body{
+    color: purple;
+    background-color: black;
+    text-align: center;
+}
+
+.botao{
+    background-color: rgb(172, 9, 172);
+    border-radius: 10px;
+    width: 200px;
+    height: 20px;
+    border: 0;
+}
+
+.botao:hover{
+    background-color: white;
+    color: pink
+}   
+
+input{
+    background-color: purple;
+    color: black;
+    border-radius: 10px;
+    border: 0;
+    text-align: center;
+}
